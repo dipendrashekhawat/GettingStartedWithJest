@@ -1,8 +1,7 @@
 # GettingStartedWithJest 
 A basic demo on using JavaScript Testing Framework - [Jest](https://jestjs.io/docs/en/getting-started.html).
 
-I have created a function (calculateSum) to add two numbers and using the JEST testing framework I am asserting the value of the resultset.
-Based on which the test cases are passed or failed. 
+I have created a function (calculateSum) to add two numbers and using the JEST testing framework. I am asserting the value of the resultset. Based on the assertion the test cases are passed or failed. 
 
 ## Commands for setup
 <ul>
