@@ -7,6 +7,7 @@ I have created a function (calculateSum) to add two numbers and using the JEST t
 <ul>
 <li>npm install --save -dev jest</li>
 <li>npm run dstest</li>
+<li>npm install --save-dev babel-plugin-transform-es2015-modules-commonjs</li>
 <ul>
 
 ## Passed Test
